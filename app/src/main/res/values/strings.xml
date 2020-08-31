@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodRecipes</string>
+    <string name="placeholder_text">CONTENT</string>
+    <string name="string_no_more_items">No more items!</string>
+</resources>
